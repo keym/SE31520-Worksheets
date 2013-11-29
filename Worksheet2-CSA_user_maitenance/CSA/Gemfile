@@ -49,3 +49,6 @@ gem 'simple-navigation'
 
 #use page pagination
 gem 'will_paginate', '>=3.0.pre'
+
+#SQLite enumerations
+gem 'enumerate_it'
